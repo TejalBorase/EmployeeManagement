@@ -1,0 +1,11 @@
+Create a Entity class for Employee table.
+Create a Dao package for Employee.
+Create an Interface EmployeeDao.
+Create an implementation class EmployeeDao.
+Create following methods in an interface.
+a. int registerEmployee(Employee emp); - including deptNo
+b. int removeEmployeeByMobile(long mobile);
+c. Employee findEmployeeById(int id);
+d. List<Employee> findEmployeeByNameSortBySalary(String name);
+e. List<Employee> findEmployeeContainsString(String input);
+f. Employee getEmployeeByEmailAndPassword(String email, String password);

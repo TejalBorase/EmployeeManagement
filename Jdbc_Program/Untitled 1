@@ -1,0 +1,10 @@
+Create HTML file in webapp folder.
+Create HTML form with 2 input box email & password.
+Create HTTP Servlet class as LoginServlet.
+Override doPost method.
+Send request from html file to servlet class.
+Fetch email & password in servlet class.
+Write a jdbc code to verify email & password in db application.
+Print output on browser whether email & password is valid or invalid.
+If credentials are valid - display Home.html - Login Successful!!
+If credentials are invalid - display Login.html - Invalid credentials
